@@ -1,7 +1,9 @@
 # PML feature selection with label disambiguation using granular-ball and fuzzy decision neighborhood rough set
 
-Accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
+
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-blue?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/11215838)
+
+Accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
 
 ## Project Overview
 
