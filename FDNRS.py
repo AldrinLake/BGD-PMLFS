@@ -1,5 +1,4 @@
 # Fuzzy Decision Neighborhood Rough Set for multi-label data
-# date 2023-7-13
 # in this version, chebyshev distance is used as default, and the method is applied to label confidence matrix, i.e., label distribution data
 import numpy as np
 from scipy.spatial.distance import cdist
