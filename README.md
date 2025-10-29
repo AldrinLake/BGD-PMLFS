@@ -1,4 +1,4 @@
-# PML feature selection with label disambiguation using granular-ball and fuzzy decision neighborhood rough set
+# Granular Ball-Guided Disambiguation for Partial Multilabel Feature Selection via Maximum Consistency Minimum Uncertainty
 
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-View%20Paper-blue?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/11215838)
 
@@ -92,3 +92,19 @@ Automatically determines the number of features to select based on feature dimen
 2. **Memory Usage**: Large-dimensional datasets may require significant memory
 3. **Parallel Processing**: Adjust the number of parallel processes based on CPU cores
 4. **Result Storage**: Ensure sufficient disk space for storing experimental results
+
+
+If you find this work helpful in your research, please consider citing our paper:
+```bibtex
+@ARTICLE{11215838,
+  author={Xu, Fankang and Qian, Wenbin and Shu, Wenhao and Huang, Jintao and Ding, Weiping and Xia, Shuyin},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Granular Ball-Guided Disambiguation for Partial Multilabel Feature Selection via Maximum Consistency Minimum Uncertainty}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Rough sets;Feature extraction;Computational modeling;Noise;Granular computing;Uncertainty;Electronic mail;Adaptation models;Noise measurement;Labeling;Feature selection;granular ball computing;multilabel learning (MLL);neighborhood rough set},
+  doi={10.1109/TNNLS.2025.3610795}
+}
+```
