@@ -96,7 +96,7 @@ Automatically determines the number of features to select based on feature dimen
 
 If you find this work helpful in your research, please consider citing our paper:
 ```bibtex
-@ARTICLE{11215838,
+@ARTICLE{xu_2025,
   author={Xu, Fankang and Qian, Wenbin and Shu, Wenhao and Huang, Jintao and Ding, Weiping and Xia, Shuyin},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Granular Ball-Guided Disambiguation for Partial Multilabel Feature Selection via Maximum Consistency Minimum Uncertainty}, 
